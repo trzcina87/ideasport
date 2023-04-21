@@ -5,4 +5,4 @@ Pillow==6.2.1
 pytz==2019.3
 setproctitle==1.1.10
 git+https://github.com/jazzband/sorl-thumbnail@4fe1854
-sqlparse==0.3.0
+sqlparse==0.4.4
